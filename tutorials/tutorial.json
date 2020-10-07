@@ -1,0 +1,17 @@
+{
+  "name": "Weather API tutorial",
+  "appLayout": "accordion",
+  "appTheme": "g90",
+  "footer": "footer.md",
+  "tutorials": [
+    {
+      "description": "Guide to access weather api collection",
+      "duration": "2 minutes",
+      "tutorial_name": "weather_api_guide.md",
+      "title": "Weather API Guide"
+    }
+  ],
+  "usefulLinks": [],
+  "demos": [],
+  "isTutorialSaved": true
+}

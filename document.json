@@ -1,0 +1,36 @@
+{
+  "name": "Weather API",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/api_collections.png",
+  "has_supporting_content": true,
+  "stack_id": "weather_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "commands": [
+    {
+      "description": "Get API collection",
+      "exec": "cd /home/student/projects && mkdir weather_api && cd weather_api && wget https://raw.githubusercontent.com/APIs-guru/openapi-directory/master/APIs/visualcrossing.com/weather/4.5/openapi.yaml"
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "meta": {
+    "Install time": ["3 minutes"],
+    "Language": [
+      "Yaml"
+    ],
+    "categories": [
+      "Public API"
+    ]
+  },
+  "isDocumentSaved": true
+}

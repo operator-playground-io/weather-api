@@ -1,0 +1,21 @@
+{
+  "title": "Weather API",
+  "description": "Weather API with historical weather and 15-day forecast data",
+  "logo": "_images/api_collections.png",
+  "enabled": true,
+  "language": [
+    "Yaml"
+  ],
+  "document": "data-logging-stack",
+  "stack_id": "weather_api",
+  "type": "API Collections",
+  "categories": [
+    "Public API"
+  ],
+  "has_dataset": false,
+  "has_api": true,
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "3 minutes",
+  "isStacksSaved": true
+}
