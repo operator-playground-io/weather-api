@@ -8,7 +8,7 @@
   ],
   "document": "data-logging-stack",
   "stack_id": "weather_api",
-  "type": "API Collections",
+  "type": "api",
   "categories": [
     "Public API"
   ],
