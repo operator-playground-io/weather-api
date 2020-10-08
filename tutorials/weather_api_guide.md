@@ -31,4 +31,4 @@ To access the swagger URL from the broswer:
    
 ![swaggerPort](_images/swagger_port.PNG)
 
-URL :  http://##DNS.ip##: ​<​PORT​>​
+
