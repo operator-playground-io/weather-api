@@ -21,7 +21,14 @@ OR
 
 - Right click file in explorer panel and click `Preview Swagger`
 
-To access the swagger URL from the broswer, copy the URL and update the ​<​PORT​>​ with the value seen in the pop-up window of your dashboard. Please refer the below example image to know where is the pop-up seen.
+To access the swagger URL from the broswer:
+
+1. Copy the URL http://##DNS.ip##: ​<​PORT​>​ to your browser window
+
+2. Update the <PORT> in the URL with the value from the pop-up window of your dashboard. 
+
+   Please refer the below example image to know where the pop-up window appears.
+   
 ![swaggerPort](_images/swagger_port.PNG)
 
-URL :  http://##DNS.ip##:​<​PORT​>​
+URL :  http://##DNS.ip##: ​<​PORT​>​
