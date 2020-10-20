@@ -10,7 +10,7 @@ Weather API with historical weather and 15-day forecast data
 ### Access the Swagger
 To start
 Go to the **developer dashboard**.
-Access the swagger file in the **developer dashbaord** by double clicking on it. 
+Access the swagger file in the **developer dashboard** by double clicking on it. 
 
 
 - Open the swagger file and press F1 (for some it would be Fn F1).
