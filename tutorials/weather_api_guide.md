@@ -17,7 +17,7 @@ Access the swagger file in the **developer dashboard** by double clicking on it.
 - Run the Command `Preview Swagger` from the drop down.
 
 
-To access the swagger URL from the broswer:
+To access the swagger URL from the browser:
 
 1. Copy the URL http://##DNS.ip##: ​<​PORT​>​ to your browser window
 
