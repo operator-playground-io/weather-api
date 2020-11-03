@@ -25,8 +25,8 @@
   ],
   "meta": {
     "Install time": ["3 minutes"],
-    "Language": [
-      "Yaml"
+    "Type": [
+      "API"
     ],
     "categories": [
       "Public API"
