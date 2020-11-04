@@ -10,6 +10,9 @@
   ],
   "platform": "Kubernetes",
   "cover": "cover.md",
+  "deployment_information": {
+     "API": "/home/student/projects/weather_api"
+  },
   "commands": [
     {
       "description": "Get API collection",
