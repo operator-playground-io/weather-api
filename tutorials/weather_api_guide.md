@@ -8,9 +8,11 @@ description: Weather API with historical weather and 15-day forecast data
 Weather API with historical weather and 15-day forecast data
 
 ### Access the Swagger
-To start
-Go to the **developer dashboard**.
-Open the Swagger file.
+To start:
+
+* Go to the **developer dashboard**.
+
+* Open the Swagger file.
 
 ![swaggerPort](_images/open-command-palette.PNG)
 
